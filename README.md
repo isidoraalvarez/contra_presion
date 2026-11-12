@@ -9,7 +9,7 @@ De 2 a 4 teléfonos y una pantalla compartida, conectados por MQTT. Se juega sol
 - Isidora Alvarez: (https://github.com/isidoraalvarez)
 - Dayana Pañitur: (https://github.com/dayanapanitrur)
 
-- **Repositorio:** https://github.com/isidoraalvarez/contrapresion
+
 
 ---
 
